@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user_id: 1
+  name: MyString
+  user_genre_id: 1
+  from: 2021-12-24 14:44:37
+  to: 2021-12-24 14:44:37
+  place: MyString
+  content: MyText
+  is_active: false
+
+two:
+  user_id: 1
+  name: MyString
+  user_genre_id: 1
+  from: 2021-12-24 14:44:37
+  to: 2021-12-24 14:44:37
+  place: MyString
+  content: MyText
+  is_active: false
